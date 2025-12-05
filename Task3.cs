@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Навчання
+﻿namespace Навчання
 {
     internal class Task3
     {
