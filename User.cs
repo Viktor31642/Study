@@ -17,4 +17,10 @@
     {
         return pass == password;
     }
+
+    public int GetPasswordLength()
+    {
+        if (string.IsNullOrEmpty(password)) { return 0; }
+        return password.Length; 
+    }
 }
