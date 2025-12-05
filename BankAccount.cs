@@ -27,3 +27,4 @@
 
     public decimal GetBalance() { return balance; }
 }
+
